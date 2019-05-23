@@ -1,1 +1,1 @@
-# Artjoms_Avramuks_budzeta_kalkulators
+# Janis-Berkis-Budzetu-kalkulators
